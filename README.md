@@ -24,10 +24,7 @@ Since I was a child I have always been in love with technology. Over the past 20
                                 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
                     </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
+                    <p align="left">
                           
                       <a href="https://www.facebook.com/profile.php?id=100009741841113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
                           
