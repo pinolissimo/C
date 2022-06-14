@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/pinolissimo/IMG/blob/6a7ca6c8791c5196ff6ca0aaf99191ccd3fa04f6/GITHUB-C%23.png" width="100%" height="100%" alt="C#" />
+
+
 Hi 👋 My name is GIUSEPPE ALLOCCA
 =================================
 
