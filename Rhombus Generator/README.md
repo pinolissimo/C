@@ -1,7 +1,6 @@
-<h2>Rhombus Generator</h2>
-
+<h2 align="center">Rhombus Generator</h2>
 <p align="center">
-<img src="[RhombusGeneratorC#.png](https://github.com/pinolissimo/C-Sharp/blob/7afcb0d550434e9f750542817527c9fc35714b4f/Rhombus%20Generator/RhombusGeneratorC%23.png)" width="100%" height="100%" alt="C#" /></p>
+<img src="RhombusGenerator.png" width="50%" height="50%" alt="C#" /></p>
 
 <p align="justify">
 
