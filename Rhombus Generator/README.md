@@ -1,7 +1,7 @@
 <h2>Rhombus Generator</h2>
 
 <p align="center">
-<img src="Rhombus Generator C#.png" width="100%" height="100%" alt="C#" /></p>
+<img src="RhombusGeneratorC#.png" width="100%" height="100%" alt="C#" /></p>
 
 <p align="justify">
 
